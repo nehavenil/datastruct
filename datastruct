@@ -1,0 +1,17 @@
+list1=[2,4,5,21,37,51]
+list2=['Aadhi','Aishu','Neha','Sahana']
+list3=['Brooklyn','Stranger Things','Lucifer','Sheldon']
+print(list1)
+print(list2)
+print(list3)
+tuple1=(21,12,37,51,5)
+print(tuple1[2])
+print(tuple1)
+print(tuple1[4])
+dict1={"name:": "Neha",
+      "Age:": 19,
+      "Course" : "Data Science",
+      "Residence": "Coimbatore"}
+print(dict1)
+del dict1["Course"]
+print(dict1)
